@@ -27,3 +27,7 @@ fiches/
 1. [Besoin essentiel, capacités d'action réduites](fiches/logement/01-besoin-essentiel-capacites-action-reduites.pdf) —
    sondage IDHEAL, décentralisation partielle des compétences logement, poids du « logement
    marchandise », paradoxe de la focalisation sur l'offre neuve.
+2. [Les leviers des maires pour réguler les logements existants](fiches/logement/02-leviers-maires-reguler-logements-existants.pdf) —
+   article complet de Fabien Desage (Vie publique, 23 mars 2026) : cadre institutionnel partagé
+   avec l'État, police de l'insalubrité (frise 1850-2024), permis de louer, encadrement des
+   loyers, régulation des meublés de tourisme, bilan critique des moyens de contrôle.
